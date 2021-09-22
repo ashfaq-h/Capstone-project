@@ -4,4 +4,4 @@
 
 Presentation is attached in this report which encapsulates the steps taken to acquire, load, data cleaning, exploratory analysis, visual analysis and predictive analysis done on the data are documented.
 
-In this project, the data was extracted using **RESTful API ** and web scraping on SpaceX website as a part of **EDA** and **data wrangling**. Predictive analysis was performed on classification models and the accuracy of the model predicting the successful landing was found to be **89%**.
+In this project, the data was extracted using **RESTful API** and web scraping on SpaceX website as a part of **EDA** and **data wrangling**. Predictive analysis was performed on classification models and the accuracy of the model predicting the successful landing was found to be **89%**.
